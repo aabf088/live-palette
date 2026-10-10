@@ -4,7 +4,7 @@ Mac에서 캡처한 이미지의 주요 색상과 포인트 색상을 자동으�
 
 ## 다운로드
 
-**[최신 버전 다운로드](https://github.com/aabf088/live-palette/releases/latest)**
+**[앱 다운로드](https://github.com/aabf088/live-palette/releases)**
 
 릴리스의 `LIVE-PALETTE-macOS-arm64.zip`을 내려받으세요.
 
