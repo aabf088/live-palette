@@ -4,9 +4,9 @@
 
 ## 다운로드
 
-[Windows 11 x64 다운로드](https://github.com/aabf088/live-palette/releases/download/v0.2.0/LIVE-PALETTE-Windows-x64.zip) · [Apple Silicon Mac 다운로드](https://github.com/aabf088/live-palette/releases/download/v0.2.0/LIVE-PALETTE-macOS-arm64.zip) · [릴리스 보기](https://github.com/aabf088/live-palette/releases)
+[Windows 11 x64 다운로드](https://github.com/aabf088/live-palette/releases/download/v0.2.1/LIVE-PALETTE-Windows-x64.zip) · [Apple Silicon Mac 다운로드](https://github.com/aabf088/live-palette/releases/download/v0.2.1/LIVE-PALETTE-macOS-arm64.zip) · [릴리스 보기](https://github.com/aabf088/live-palette/releases)
 
-Windows 버전은 0.2.0 베타, Mac 버전은 0.1.3입니다. Intel Mac과 Windows ARM용 배포본은 현재 제공하지 않습니다.
+Windows 버전은 0.2.1 베타, Mac 버전은 0.1.4입니다. Intel Mac과 Windows ARM용 배포본은 현재 제공하지 않습니다.
 
 ## Windows
 
@@ -34,6 +34,7 @@ Apple Developer ID 서명과 공증은 아직 적용하지 않았습니다. macO
 - 캡처 후 HEX 코드 5줄이 클립보드에 복사됩니다. 서식을 지원하는 앱에는 색상 네모도 붙여넣습니다. 다섯 줄 전체를 담은 PNG도 제공하므로, 받는 앱에 따라 텍스트·서식 또는 한 장의 이미지로 들어갈 수 있습니다.
 - 색상 하나를 클릭하면 해당 색상만 한 줄로 복사합니다.
 - 화살표를 펼치면 **현재 팔레트를 제외한 최근 기록 두 개**가 보입니다. 기록을 누르면 다시 불러오고 복사합니다.
+- 패널 오른쪽 위 **×**를 누르면 패널이 닫히고 캡처 감지도 꺼집니다. 메뉴 막대 / 트레이의 팔레트 아이콘을 클릭하면 다시 켤 수 있습니다.
 - 패널 우클릭 메뉴는 **복사 · 팔레트 저장 · 저장한 팔레트**입니다.
 - 앱의 캡처 버튼은 없습니다. 운영체제 기본 단축키로 캡처하세요. 앱이 화면 기록 권한을 요청하거나 직접 촬영하지 않습니다.
 - 감지가 켜져 있으면 캡처 후 클립보드가 색상 값으로 바뀝니다.
